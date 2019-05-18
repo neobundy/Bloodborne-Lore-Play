@@ -633,9 +633,7 @@ For the night of the hunt is long, and unchanging
 * ししゃ[使者] - 사자
 * ばいばい/うりかい [売買]  - 매매
 
-## NPC
-
-### NPC - 길버트
+## ギルバート - Critically Ill Man
 
 ⋯ああ、獣狩りの方ですね
 それに⋯どうやら、外からの方のようだ
@@ -697,7 +695,7 @@ That's your best bet if it's anything to do with unique types of blood...
 * はさむ[挟む·挿む] - 사이에 두다
 * つね[常]- 항상, 늘, 평소 
 
-### ヨセフカの診療所 - Iosefka's Clinic
+## ヨセフカの診療所 - Iosefka's Clinic
 
 ⋯あなた、どなた？獣狩りの方、かしら？
 だとしたらごめんなさい。この扉を開けることはできないわ
@@ -736,7 +734,7 @@ Perhaps this will help you, if only in some small way.
 Now, go.
 I pray for your safety.
 
-###人形 - Doll
+## 人形 - Doll
 
 はじめまして。狩人様
 私は人形。この夢で、あなたのお世話をするものです
@@ -826,7 +824,7 @@ Heavens, the depths of depravity...
 
 * きたならしい[汚らしい] - 추접스럽다
 
-### 노파
+## ばば  - Old Lady
 
 ⋯ああ、あんた、狩人なんだろう？
 だったら、知らないのかい？どこか安全なところをさ
@@ -868,7 +866,7 @@ Unless... you've found me a nice, safe place?
 * しょせん[所詮] - 결국, 필경
 - 소생은 필경 그리할 것입니다...
 
-## 수기
+## 手記
 
 * とらわれる[囚われる] - 잡히다
 - 도라와서 잡히다...
