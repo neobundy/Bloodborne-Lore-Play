@@ -2,6 +2,10 @@
 # Copyright(c) Wankyu Choi All Rights Reserved
 #
 
+# 관련 문서 GitHub 프로젝트
+
+https://github.com/neobundy/Bloodborne-Lore-Play
+
 # CWK Bloodborne Lore Play - 꼰댈로그 4K 블러드본 나름 스토리 공략
 
 40대 이후 인생 3대 게임 중 하나인 *Bloodborne - The Old Hunters Edition*을 일본어판으로 재도전합니다.
