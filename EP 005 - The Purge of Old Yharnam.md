@@ -1,6 +1,13 @@
-EP 005 - 旧市街
+미완성
+
+# EP 005 - 旧市街
 
 CWKV0110
+
+# 관련 문서 GitHub 프로젝트
+
+https://github.com/neobundy/Bloodborne-Lore-Play
+
 
 OLD YHARNAM （旧市街）
 

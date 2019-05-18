@@ -1,4 +1,10 @@
-EP 002 - 성직자 야수 - 누굴 숭배하는 종교? 聖職者の獣 (Cleric Beast)
+미완성
+
+# EP 002 - 성직자 야수 - 누굴 숭배하는 종교? 聖職者の獣 (Cleric Beast)
+
+# 관련 문서 GitHub 프로젝트
+
+https://github.com/neobundy/Bloodborne-Lore-Play
 
 # 剣の狩人証 - Sword Hunter Badge
 
