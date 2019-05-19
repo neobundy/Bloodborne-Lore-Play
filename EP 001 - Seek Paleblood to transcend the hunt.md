@@ -824,49 +824,7 @@ Heavens, the depths of depravity...
 
 * きたならしい[汚らしい] - 추접스럽다
 
-## ばば  - Old Lady
-
-⋯ああ、あんた、狩人なんだろう？
-だったら、知らないのかい？どこか安全なところをさ
-
-あたしゃあ知ってるよ、もう家の中だってダメらしいじゃあないの
-あんたたち狩人が役立たずで、こんなことになってるんだから
-あたしを助ける義務があるってものさ
-さあ、はやく どこか知っているんじゃあないのかい？
-
-なんだい、そりゃあ
-役立たずだね。それとも、ババアに用はないってか？
-ああ、よそ者なんて所詮そんなものだよ
-どうせ、あたしらを、おかしいと思ってるんだろう！
-消えちまいなよ！あたしゃあ知ってるんだよ！
-
-⋯またあんたかい、しつこいね
-役立たずに用はないんだよ
-それとも、見つけたのかい？どこか安全なところをさ
-
-Oh, you're a hunter, aren't ya?
-Then, well, do you know of any safe places?
-
-I've heard, I have. Shutting up indoors isn't always enough.
-If you hunters got off your arses, we wouldn't be in this mess.
-You're obligated to help me, you hear?
-So, what'll it be?
-Are you gonna tell me, or not?
-
-Yeah, I should've known.
-Ya good-for-nothing... No respect for the elderly is what that is!
-Yeah, fat lot of good you outsiders do.
-Go on, admit it, you think we're all mad, don't ya?
-Well, go and stuff it! I know all yer tricks!
-
-What is it now?
-I've much better ways to pass the time.
-Unless... you've found me a nice, safe place?
-
-* しょせん[所詮] - 결국, 필경
-- 소생은 필경 그리할 것입니다...
-
-## 手記
+## 手記 - Notes
 
 * とらわれる[囚われる] - 잡히다
 - 도라와서 잡히다...
