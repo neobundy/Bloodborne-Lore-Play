@@ -98,7 +98,7 @@ For the night of the hunt is long, and unchanging
 * こびりつく - 달라붙다
 - 고삐리가 따라붙다...
 
-## 길버트
+## ギルバート - Critically Ill Man
 
 なるほど⋯
 この市街から聖堂街に向かうには、大橋を使うほかないのですが
