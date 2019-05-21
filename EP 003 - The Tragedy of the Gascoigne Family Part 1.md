@@ -1,5 +1,3 @@
-미완성
-
 # EP 003 -  개스코인 일가의 비극 ガスコイン神父(Father Gascoigne) Part 1
 
 CWKV0108
@@ -29,30 +27,117 @@ Playstation Pro 4에서 일본어 음성/일본어 텍스트를 기반으로 라
 
 아이템의 일어 및 영어 원문, NPC화의 일어 및 영어 원문, 간단한 일본어 단어를 정리해 놓은 문서가 에피소드별로 GitHub에 업로드되며, 오류를 수정 보완하고 내용이 추가되는 등 프로젝트가 진행되는 동안 꾸준히 업데이트됩니다.
 
-## 教会の石槌 - Kirkhammer
+## 小さなオルゴール - Tiny Music Box
 
-特に医療教会の狩人が用いる「仕掛け武器」
+ヤーナムの少女から預かった、小さなオルゴール
+両親の思い出の曲が流れるらしい
 
-扱いやすい銀の剣と巨大な石の鈍器という、極端な二面性をもち
-特にその後者は「重打」の特性と大きな衝撃力が特徴となる
+蓋の裏の紙片は、どうやら古い手紙のようで
+かろうじて２人の名前が読み取れる
+それはヴィオラと、そしてガスコインであろうか
 
-医療教会の工房は、狩人の「仕掛け武器」の二派の一方であり
-かつて聖堂街のどこかに、ひっそりとあったという
+A small music box received from a young Yharnam girl.
+Plays a song shared by her mother and father.
 
-A trick weapon typically used by Healing Church hunters.
+Inside the lid is a small scrap of paper, perhaps an
+old message. Two names can be made out, however faintly.
 
-On the one side, an easily-handled silver sword.
-On the other, a giant obtuse stone weapon, characterized
-by a blunt strike and extreme force of impact.
+Viola and Gascoigne.    
 
-The Church takes a heavy-handed, merciless stance
-toward the plague of beasts, an irony not lost upon
-the wielders of this most symbolic weapon.
+* ふた[蓋] - 뚜껑
+- 후딱 뚜껑 열어 봐...
+* しへん[紙片] - 지편, 종이조각
+* かろうじて[辛うじて] - 겨우
+* よみとる[読(み)取る] - 독해하다
 
-* せきつい[石槌] - 돌망치
-* つち[槌] - 망치
-* どんき[鈍器] - 둔기
-* ひっそり - 조용히, 가만히
+##  狂人の智慧 - Madman's Knowledge
 
-## 血晶 - Blood Gems
+上位者の智慧に触れ狂った、狂人の頭蓋
+使用により啓蒙を得る
+
+狂うとて、神秘の智慧に触れるものは幸運である
+まして、それが後人の助けになるのだから
+
+* じょうい[上位] - 상위 
+* くるう [狂う] - 미치다
+* ずがい/とうがい[頭蓋] - 두개 
+* まして[増して] - 무엇보다
+* こうじん[後人] - 후세
+
+Skull of madman touched by the wisdom of the Great
+Ones.
+
+Use to gain Insight.
+
+Making contact with eldritch wisdom is a blessing, for even
+if it drives one mad, it allows one to serve a grander purpose,
+for posterity.  
+
+## Girl
+
+⋯あなた、だあれ？
+知らない声、でも、なんだか懐かしい臭いもするの
+もしかして、獣狩りの人かな？
+だったら、お願い、お母さんを探してほしいの
+獣狩りの夜だから、お父さんを探すんだって⋯それからずっと帰ってこない
+私ずっと⋯でも、寂しくって⋯
+
+Who... are you?
+I don't know your voice, but I know that smell...
+Are you a hunter?
+Then, please, will you look for my mum?
+Daddy never came back from the hunt, and she went to find him, but now she's gone, too...
+I'm all alone... and scared...
+
+⋯わかり、ました
+ごめんなさい、獣狩りさん、お話ししてくれてありがとう
+お仕事、がんばってね
+
+お話ししてくれてありがとう
+お仕事、がんばってね
+
+⋯獣狩りさん、ですか？
+もしかして、お母さん、探してくれるんですか？
+
+Oh, alright...
+Well [th-thanks mister / thanks miss] hunter, for talking, at least.
+Take care, on your hunt.
+
+Thanks for chatting.
+Please be careful out there!
+
+Are you that hunter?
+Can you look for my mum?
+
+少女の母を探す
+
+本当？ありがとう！
+お母さん、真っ赤な宝石のブローチをしてるんだ
+大きくて、すっごく綺麗なんだから、きっとすぐに分かると思う
+それで、それでね
+お母さんを見つけたら、このオルゴールを渡してほしいの
+
+お父さんの好きな、思い出の曲なんだって
+もし、私たちのこと忘れちゃってても、この曲を聴けば思い出すはずだって
+⋯それなのに忘れていくなんて、おっちょこちょいなお母さんだよね
+
+お母さん、真っ赤な宝石のブローチをしてるんだ
+大きくて、すっごく綺麗なんだから、きっとすぐに分かると思う
+それで、お母さんみつけたらね、オルゴールを渡してあげて
+お願いね、獣狩りさん
+
+Really? Oh, thank you!
+My m-mum wears a red jeweled brooch.
+It's so big and... and beautiful. You won't miss it.
+Oh, I mustn't forget.
+If you find my mum, give her this music box.
+
+...It plays one of daddy's favorite songs.
+And when daddy forgets us we play it for him so he remembers.
+Mum's so silly, running off without it!
+
+My mum wears a red jeweled brooch.
+It's so big and beautiful. You won't miss it.
+Oh, and if you find her, give her this music box.
+Please, I know you can do it.
 

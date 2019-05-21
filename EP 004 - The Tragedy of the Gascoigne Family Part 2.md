@@ -1,5 +1,3 @@
-미완성
-
 # EP 004 -  개스코인 일가의 비극 ガスコイン神父(Father Gascoigne) Part 2
 
 CWKV0109
@@ -28,6 +26,31 @@ Playstation Pro 4에서 일본어 음성/일본어 텍스트를 기반으로 라
 6. 주요 대사는 자막 처리 귀차니즘의 압박으로 대강의 순차통역으로 갈음합니다.
 
 아이템의 일어 및 영어 원문, NPC화의 일어 및 영어 원문, 간단한 일본어 단어를 정리해 놓은 문서가 에피소드별로 GitHub에 업로드되며, 오류를 수정 보완하고 내용이 추가되는 등 프로젝트가 진행되는 동안 꾸준히 업데이트됩니다.
+
+## 教会の石槌 - Kirkhammer
+
+特に医療教会の狩人が用いる「仕掛け武器」
+
+扱いやすい銀の剣と巨大な石の鈍器という、極端な二面性をもち
+特にその後者は「重打」の特性と大きな衝撃力が特徴となる
+
+医療教会の工房は、狩人の「仕掛け武器」の二派の一方であり
+かつて聖堂街のどこかに、ひっそりとあったという
+
+A trick weapon typically used by Healing Church hunters.
+
+On the one side, an easily-handled silver sword.
+On the other, a giant obtuse stone weapon, characterized
+by a blunt strike and extreme force of impact.
+
+The Church takes a heavy-handed, merciless stance
+toward the plague of beasts, an irony not lost upon
+the wielders of this most symbolic weapon.
+
+* せきつい[石槌] - 돌망치
+* つち[槌] - 망치
+* どんき[鈍器] - 둔기
+* ひっそり - 조용히, 가만히
 
 ## 小さなオルゴール - Tiny Music Box
 
@@ -98,7 +121,6 @@ a droplet blood gem that fortifies any weapon.
 With the proper workshop tool, various weapons can be
 fortified
 
-
 * Bloodborne = Born of the blood.
 
 ## 地下墓の鍵 - Oedon Tomb Key 
@@ -143,7 +165,6 @@ in possession of this badge, or so they believe.
 * すいぼん[水盆] - 수분 
 * みいだす[見出す] - 찾아내다
 
-
 ## 血晶石の工房道具 - Blood Gem Workshop Tool 
 
 狩人の夢から失われていた、工房道具の１つ
@@ -165,7 +186,6 @@ fortify them, as blood defines an organism.
 * ねじる[捩る·捻る·拗る] - 비틀다, 쥐다
 - 내질러 비틀다...내가 질러 빌틀어 주마...
 * きてい[規定] - 규정
-
 
 ## Boss -  ガスコイン神父(Father Gascoigne)
 
