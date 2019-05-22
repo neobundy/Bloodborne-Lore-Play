@@ -2,7 +2,7 @@
 
 # EP 008 - Ludwig's Holy Blade
 
-CWKV0112
+CWKV0113
 
 # 관련 문서 GitHub 프로젝트
 

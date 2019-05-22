@@ -216,6 +216,26 @@ But a sporting hunt, it was!
 * どこもかしこも - 여기도 저기도
 * たまる[堪る] - 견디다
 
+## 狩人の確かな徴 - Bold Hunter's Mark
+
+血の遺志を捨てず、目覚めをやり直す
+
+狩人の脳裏に刻まれた逆さ吊のルーン
+これを模し、よりはっきりとしたヴィジョンを可能にする呪符
+
+これにより、血の遺志を捨てず、狩人は目覚めをやり直せる
+まことに都合のよい技術である
+
+Awaken anew without losing Blood Echoes.    
+Dangling, upside-down rune etched in the mind of a hunter.
+
+The image upon this parchment allows one to envision the
+rune with clarity.
+
+Allows a hunter to awaken again without losing Blood
+Echoes, a trick that seems nearly too good to be true.  
+
+
 ## 狩人狩りアイリーン - Hunter of Hunters (Eileen the Crow)
 
 ⋯なんだい、あんた狩人かい⋯それに、外からきたんだろう？
@@ -380,7 +400,7 @@ I love you almost as much as mum and dad, and granddad!
 Thank you, [mister/miss] hunter.
 I love you almost as much as mum and dad, and granddad!
 
-## 聖堂街 - CATHEDRAL WARD
+## 聖堂街 - Samaritan
 
 ⋯ん、あんた⋯もしかして、獣狩りの⋯狩人さんか？
 すまない、香のせいで、匂いがわからなかったよ
@@ -454,6 +474,28 @@ But if the old hunter tales remain true...
 Yet the town is in disarray...
 It was burned and abandoned, for fear of the scourge, home now only to beasts.
 The perfect place for a hunter, wouldn't you say?
+
+## Girl
+
+⋯うん、わかった。私、待てるよ
+でも、私、ずっとここにいいていいのかな？
+もしかしてお母さん、お父さんも、家に帰れなくて
+だったら、私がお迎えに行った方がいいのかな？
+ねえ、獣狩りさん、どうかなあ？
+
+Oh, okay. I can wait.
+But isn't there something I can do?
+Maybe mum and dad are stuck out there...
+...waiting for me to come and find them.
+What do you think, [mister/miss] hunter?
+
+うん、わかった！
+ありがとう、獣狩りさん
+お母さんとお父さんと、お爺ちゃんの次に大好きよ
+
+Yes, okay!
+Thank you, [mister/miss] hunter.
+I love you almost as much as mum and dad, and granddad!
 
 
 ## ジェスチャー  - Gestures

@@ -2,7 +2,7 @@
 
 # EP 010 - The Call of Cthulhu
 
-CWKV0114
+CWKV0115
 
 # 관련 문서 GitHub 프로젝트
 
@@ -202,58 +202,6 @@ which it was kept.
 
 It borderlines on mania, and exudes a slight warmth.    
 
-## Narrow-Minded Man
-
-⋯お前、嘘吐きのよそ者が
-見たことか。俺はお前に騙されなかったぞ
-さあ、消えろ、消えろ
-嘘吐きの悪臭がうつるじゃないか！
-
-ひとつだけ、いいことを教えてやろう
-あの盲人に注意することだな
-最初からかなんだか知らないが、ゴキブリのような分際で
-あいつめ、まるでここのご主人気取りだ
-⋯俺はあいつを信用しないぜ
-あるいは、この場所に皆を誘い込み⋯ってのも、あるかもしれん
-あんなものが、まともに生きてきたはずもないのだからな⋯
-
-⋯ああ、うるさい
-嘘吐きのよそ者に用などないんだよ
-さあ、消えろ、消えろ
-嘘吐きの悪臭がうつるじゃないか！
-
-Ah, you, the swindlin' offcomer.
-Did you really think that'd work? There's no fooling me!
-Now, off with ya, you heard me!
-Go away! I can't stand the stench of your lyin' breath!
-
-I'll spare you one nugget of advice.
-Beware the blind man.
-There the beggar sits, at the bottom of the bloody food chain...
-...and then he's here, acting like he owns the place...
-He's not to be trusted.
-What's he want with all those people anyway.
-That little weasel has a murky past, I'm tellin' ya...
-
-Oh, give it a rest, please.
-I've no time for your petty lies.
-Awa- just go away now!
-I can't stand the stench of your lyin' breath!
-
-ひとつだけ、いいことを教えてやろう
-あの売女に注意することだな
-俺には分かるんだ。あいつめ、聖女様に嫉妬してやがる
-誰からも疎まれる、不潔に腐った自分を一番よく知ってるんだろうさ
-ああ、だからこそ女の嫉妬は怖いもの。恐ろしいねえ
-股開きめ、てめえが出ていけばいものをねえ⋯
-
-I'll spare you one nugget of advice.
-Beware the lady of the night.
-I can see it in her eyes. She deeply resents the young saint.
-She hears people whisper. She knows what people think of her.
-Yes, she despises the saint for having what she doesn't.
-Bloody wench, they shoulda moved her on ages ago.
-
 
 ## ３本目のへその緒 - Third Umbilical Cord
 
@@ -367,3 +315,44 @@ More blood echoes gained from visceral attacks.
 Perhaps the "Heir" is a hunter who bears the echoing will of
 those before him.   
 
+## Narrow-Minded Man
+
+⋯お前、嘘吐きのよそ者が
+見たことか。俺はお前に騙されなかったぞ
+さあ、消えろ、消えろ
+嘘吐きの悪臭がうつるじゃないか！
+
+ひとつだけ、いいことを教えてやろう
+あの盲人に注意することだな
+最初からかなんだか知らないが、ゴキブリのような分際で
+あいつめ、まるでここのご主人気取りだ
+⋯俺はあいつを信用しないぜ
+あるいは、この場所に皆を誘い込み⋯ってのも、あるかもしれん
+あんなものが、まともに生きてきたはずもないのだからな⋯
+
+⋯ああ、うるさい
+嘘吐きのよそ者に用などないんだよ
+さあ、消えろ、消えろ
+嘘吐きの悪臭がうつるじゃないか！
+
+Ah, you, the swindlin' offcomer.
+Did you really think that'd work? There's no fooling me!
+Now, off with ya, you heard me!
+Go away! I can't stand the stench of your lyin' breath!
+
+I'll spare you one nugget of advice.
+Beware the blind man.
+There the beggar sits, at the bottom of the bloody food chain...
+...and then he's here, acting like he owns the place...
+He's not to be trusted.
+What's he want with all those people anyway.
+That little weasel has a murky past, I'm tellin' ya...
+
+Oh, give it a rest, please.
+I've no time for your petty lies.
+Awa- just go away now!
+I can't stand the stench of your lyin' breath!
+
+## Notes
+
+* たきび [たき火·焚(き)火] - 모닥불, 화톳불

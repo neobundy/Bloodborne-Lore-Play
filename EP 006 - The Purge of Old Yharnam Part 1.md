@@ -2,7 +2,7 @@
 
 # EP 006 - 旧市街 - The Purge of Old Yharnam Part 1
 
-CWKV0110
+CWKV0111
 
 # 관련 문서 GitHub 프로젝트
 

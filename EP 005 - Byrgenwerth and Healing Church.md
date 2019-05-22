@@ -48,6 +48,9 @@ Playstation Pro 4에서 일본어 음성/일본어 텍스트를 기반으로 라
 かつて聖堂街のどこかに、ひっそりとあったという
 
 * せきつい[石槌] - 돌 망치
+* つち[槌] - 망치
+* どんき[鈍器] - 둔기
+* ひっそり - 조용히, 가만히
 
 A trick weapon typically used by Healing Church hunters.
 
