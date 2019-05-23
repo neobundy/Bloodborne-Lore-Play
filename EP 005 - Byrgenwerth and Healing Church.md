@@ -1,6 +1,4 @@
-미완성
-
-# EP 005 - 旧市街 - Old Yharnam
+# EP 005 - 창백한 피의 실마리 비르겐워스
 
 CWKV0110
 
@@ -227,7 +225,7 @@ a staple in beast hunts, and is thought to cleanse impurity.
 Certain types of beasts have an abnormal fear of flame.
 
 
-## 길버트 
+## Critically Ill Man - 길버트 
 
 ごほっ、ごほっ、ごほっ、ごほっ
 ⋯ああ、私のことは、もう気にしなくて構いません
