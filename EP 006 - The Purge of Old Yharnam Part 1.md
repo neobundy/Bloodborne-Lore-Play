@@ -1,5 +1,3 @@
-미완성
-
 # EP 006 - 旧市街 - The Purge of Old Yharnam Part 1
 
 CWKV0111

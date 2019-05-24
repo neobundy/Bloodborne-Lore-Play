@@ -1,5 +1,3 @@
-미완성
-
 # EP 009 - Vicar Amelia, Fear the Old Blood
 
 CWKV0114

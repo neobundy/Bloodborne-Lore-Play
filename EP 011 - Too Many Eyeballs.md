@@ -1,5 +1,3 @@
-미완성
-
 # EP 011 - Too Many Eyeballs
 
 CWKV0116

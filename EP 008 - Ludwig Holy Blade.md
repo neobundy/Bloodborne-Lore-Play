@@ -1,5 +1,3 @@
-미완성
-
 # EP 008 - Ludwig's Holy Blade
 
 CWKV0113
@@ -224,6 +222,3 @@ The Healing Church workshop began with Ludwig, and
 departed from old Gehrman's techniques to provide
 hunters with the means to hunt more terrifying beasts,
 and perhaps things still worse. 
-
-특히 교회의 사냥꾼이 사용하는 장치 무기이고 교회 최초의 사냥꾼 루드비히가 사용한 것으로 알려졌다고 하네요. 은으로 만든 검을 칼집에 결합하면 대검이 되고...
-치료 교회 공방, 그러니까 사냥꾼 길드는 루드비히가 주도했지만 게르만같은 옛 사냥꾼들과는 다른 길을 갔다고 하죠. 더 무서운 야수들을 사냥하기 위해서.

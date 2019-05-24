@@ -1,6 +1,4 @@
-미완성
-
-# EP 006 - 旧市街 - The Purge of Old Yharnam Part 2
+# EP 007 - 旧市街 - The Purge of Old Yharnam Part 2
 
 CWKV0112
 
@@ -28,12 +26,6 @@ Playstation Pro 4에서 일본어 음성/일본어 텍스트를 기반으로 라
 6. 주요 대사는 자막 처리 귀차니즘의 압박으로 대강의 순차통역으로 갈음합니다.
 
 아이템의 일어 및 영어 원문, NPC화의 일어 및 영어 원문, 간단한 일본어 단어를 정리해 놓은 문서가 에피소드별로 GitHub에 업로드되며, 오류를 수정 보완하고 내용이 추가되는 등 프로젝트가 진행되는 동안 꾸준히 업데이트됩니다.
-
-
-## Ritual Blood
-
-## 血族狩りアルフレート- Vileblood Hunter Alfred
-
 
 ## 血に渇いた獣 - Blood-Starved Beast 
 
@@ -328,7 +320,7 @@ that eats away at Gascoigne.
 "Father" is a title used for clerics in a foreign land,
 and there is no such rank in the Healing Church.
 
-## 聖堂街
+## 聖堂街 Samaritan
 
 おお、狩人さん！
 ありがとう。あのご老婆に、あんたがここを教えてくれたんだろう？
@@ -342,7 +334,7 @@ Thank you. So, that old girl, you told 'er about this place right?
 Well, she don't offer me much in the way of conversation, but still...
 I'd rather see 'er alive anyhow.
 
-## 게르만
+## 助言者ゲールマン
 
 医療教会、今やそう呼ばれる血の医療者たちは
 古い狩人、ルドウイーク以来、狩人の庇護者でもあり

@@ -1,5 +1,3 @@
-미완성
-
 # EP 010 - The Call of Cthulhu
 
 CWKV0115
@@ -356,3 +354,4 @@ I can't stand the stench of your lyin' breath!
 ## Notes
 
 * たきび [たき火·焚(き)火] - 모닥불, 화톳불
+* かがりび[かがり火] - 화톳불
