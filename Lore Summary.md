@@ -12,7 +12,6 @@
 2. 성가대(The Choir) + 이브리에타스(Ebrietas)
 3. 카인허스트 혈족(Vilebloods) + 불사의 여왕(Undead Queen Annalise)
 
-
 오래된 피(Old Blood)를 두려워하라 
 
 오래된 피의 부작용 - 야수병(Beasts)
@@ -24,3 +23,5 @@
 게르만 + 창백한 피(Paleblood) 혹은 달의 존재(Moon Presence)
 
 에날리스 - Child of Blood
+
+병든 로랑 - 야수병으로 멸망한 문명/역사는 되풀이된다
