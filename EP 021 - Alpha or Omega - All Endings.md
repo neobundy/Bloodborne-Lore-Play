@@ -27,3 +27,145 @@ Playstation Pro 4에서 일본어 음성/일본어 텍스트를 기반으로 라
 
 아이템의 일어 및 영어 원문, NPC화의 일어 및 영어 원문, 간단한 일본어 단어를 정리해 놓은 문서가 에피소드별로 GitHub에 업로드되며, 오류를 수정 보완하고 내용이 추가되는 등 프로젝트가 진행되는 동안 꾸준히 업데이트됩니다.
 
+## 古びた狩人証 - Old Hunter Badge
+
+老ゲールマンの時代に発行された狩人証
+
+もはや意味もなく、ただ過ぎし日を懐かしむものだ
+
+それは古い者たちの特権であり、侵すべきものではない
+そっとしておこう。真にその遺志を継ぐものでなければ
+
+* おかす[侵す] - 침범하다
+
+Hunter badge crafted in the age of old Gehrman. 
+This hunter's badge, crafted in Gehrman's time,
+has no practical purpose, except perhaps to
+assist in romanticizing about the past.
+
+The badge was a special privilege for the hunters
+of the past, and should not be dishonored.
+
+It should be left in peace, unless one is truly
+prepared to assume the will of those gone before.   
+
+## 葬送の刃 - Burial Blade
+
+最初の狩人、ゲールマンが用いた「仕掛け武器」
+
+すべての工房武器の原点となるマスターピースであり
+その刃には、星に由来する希少な隕鉄が用いられている
+
+ゲールマンは狩りを、弔いになぞらえていたのだろう
+せめて安らかに眠り、二度と辛い悪夢に目覚めぬように
+
+* そうそう[葬送·送葬] - 장송
+* いんてつ[隕鉄] - 철과 니켈 성분의 운석, 운철
+* とむらい[弔(い)] - 애도
+* なぞらえる[準える·准える·擬える] - 비하다, 본뜨다
+
+Trick weapon wielded by Gehrman, the first hunter.
+
+A masterpiece that defined the entire array of weapons
+crafted at the workshop. Its blade is forged with siderite,
+said to have fallen from the heavens.
+
+Gehrman surely saw the hunt as a dirge of farewell, wishing
+only that his prey might rest in peace, never again to awaken
+to another harrowing nightmare. 
+
+## Doll
+
+狩人様。お待ちしておりました
+間もなく夜明け⋯夜と夢の終わりですね
+⋯大樹の下で、ゲールマン様がお待ちのはずです
+
+大樹の下で、ゲールマン様がお待ちのはずです
+さあ、狩人様⋯
+
+Good hunter, you have come...
+Dawn will soon break... This night, and this dream, will end.
+Gehrman awaits you, at the foot of the great tree.
+
+Gehrman awaits you, at the foot of the great tree.
+Go on, good hunter...
+
+狩人様⋯あなたから、懐かしさを感じます⋯
+やはり狩人とは、古い意志を継ぐものなのですね⋯
+
+Good hunter... Your presence somehow soothes...
+I sense the ancient echoes, they course your veins...
+
+## 助言者ゲールマン - Old Hunter Gehrman
+
+⋯狩人よ、君はよくやった。長い夜は、もう終わる
+さあ、私の介錯に身を任せたまえ
+君は死に、そして夢を忘れ、朝に目覚める
+⋯解放されるのだ
+この忌々しい、狩人の悪夢から⋯
+
+⋯さらばだ、優秀な狩人
+血を恐れたまえよ
+
+* かいしゃく[介錯] - 후견, 할복자의 목을 침
+
+Good hunter, you've done well. The night is near its end.
+Now, I will show you mercy.
+You will die, forget the dream, and awake under the morning sun.
+You will be freed...
+...from this terrible hunter's dream...
+
+Farewell, my keen hunter.
+Fear the blood.
+
+なるほど、君も何かにのまれたか。狩りか、血か、それとも悪夢か？
+まあ、どれでもよい
+
+そういう者を始末するのも、助言者の役目というものだ⋯
+
+⋯ゲールマンの狩りを知るがいい
+
+* のまれる[飲まれる·呑まれる] - 먹히다, 휩쓸리다, 압도되다
+
+Dear oh dear, what was it? The hunt, the blood, or the horrible dream?
+Oh, it doesn't matter.
+
+It always comes down to the hunters' helper to clean up after these sorts of messes.
+
+Tonight, Gehrman joins the hunt...
+
+死を受け入れたまえよ
+夜を解放されるのだから⋯
+
+You must accept your death.
+Be freed from the night...
+
+すべて、長い夜の夢だったよ⋯
+
+The night, and the dream, were long...
+
+## ヤーナムの夜明け - Yharnam Sunrise Ending
+
+獣狩りの夜の終わり、夜明けを迎えた者の証
+
+You lived through the hunt, and saw another day.
+
+야수 사냥의 밤이 막을 내리고 새벽을 맞은 자의 증표.
+
+## 遺志を継ぐ者 - Honoring Wishes Ending
+
+月の魔物に魅入られ、狩人の夢を守り続ける者の証。
+
+Captivated by the Moon Presence, you pledge to watch over the hunter's dream.
+
+* みいる[魅入る] - (귀신 따위가) 씌다, 홀리다
+
+달의 마물(존재)에 홀려 사냥꾼의 꿈을 지켜나가기로 한 자의 증표.
+
+## 幼年期のはじまり - Childhood's Beginning (Secret Ending)
+
+自ら上位者たる赤子となった証。人の進化は、次の幼年期に入ったのだ
+
+You became an infant Great One, lifting humanity into its next childhood.
+
+우리 위대한 자들의 아이가 되었다는 증표. 인간의 진화는 다음 유년기로 접어들었다.
