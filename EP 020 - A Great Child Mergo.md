@@ -230,3 +230,24 @@ Shoes worn by Arianna, woman of the night
 in the Cathedral Ward.
 
 Innocent and cute, in contrast with its owner.  
+
+## 生きているヒモ - Living String
+
+聖杯の儀式に必要となる特別な素材の１つ
+
+メンシスが悪夢で得た巨大な脳みそは
+確かに内に瞳を抱き、だが完全な出来損ないであった
+その瞳は邪眼の類であり、脳自体は腐りきっていた
+
+しかし、それはやはり上位者であり、遺物を残す
+特に生きたものは、真に貴重である
+
+Special material used in a Holy Chalice ritual.
+
+The immense brain that Mensis retrieved from the nightmare
+was indeed lined with eyes on the inside, but they were of
+an evil sort, and the brain itself was terribly rotten.
+
+But even still, it was a legitimate Great One, and left a relic.
+A living relic, at that, which is a precious thing indeed.  
+
