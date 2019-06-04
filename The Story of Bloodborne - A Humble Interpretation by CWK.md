@@ -22,7 +22,7 @@
 
 # The Story of Bloodborne: A Humble Intepretation By C.W.K.
 
-# 통번역사, 개발자, 작가인 게임광의 재해석
+# 통번역사, 개발자, 작가인 열혈 게이머 반백한량 대두족장의 블러드본 스토리 50분 요약 해설
 
 ## Intro
 
